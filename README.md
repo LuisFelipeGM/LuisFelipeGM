@@ -34,6 +34,7 @@
   <a href="https://www.twitch.tv/zelderonzz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="mailto:lipe.garcia.menezes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/luisfelipe-gm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-<!-- Cobrinha -->
+  
   ![Snake animation](https://github.com/LuisFelipeGM/LuisFelipeGM/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
