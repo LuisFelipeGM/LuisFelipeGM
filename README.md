@@ -23,7 +23,7 @@
   <img align="center" alt="Luis-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Luis-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Luis-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/347142533614403596/971840737727610890/giphy.gif">
+  <img align="right" alt="Keyd-6" height="150" src="https://cdn.discordapp.com/attachments/347142533614403596/971840737727610890/giphy.gif">
 </div>
   
   ##
