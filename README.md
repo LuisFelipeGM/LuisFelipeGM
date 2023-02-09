@@ -3,7 +3,7 @@
 <!-- Informações -->
 - 📚 Estudo Análise e Densenvolvimento de Sistemas na FIAP.
 - 💻 Tenho muito interesse em Back-End.
-- 🌱 No Ensino Médio estudei PHP, atualmente estou aprendendo Java e Python.
+- 🌱 No Ensino Médio estudei PHP, atualmente estou aprendendo Java, Python, C# e ASP.NET.
 - ⚡ Top 25 Syndra BR 🥳.
 <br>
 
