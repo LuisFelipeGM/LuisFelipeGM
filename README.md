@@ -4,7 +4,7 @@
 - 📚 Estudo Análise e Densenvolvimento de Sistemas na FIAP.
 - 💻 Tenho muito interesse em Back-End.
 - 🌱 No Ensino Médio estudei PHP, atualmente estou aprendendo Java, Python, C# e ASP.NET.
-- 💬 Me quiser conversar sobre tecnologia me chame no Linkedin!
+- 💬 Se quiser conversar sobre tecnologia me chame no Linkedin!
 <br>
 
 <!-- Git Stats -->
